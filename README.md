@@ -146,9 +146,18 @@ This project uses the [JSONPlaceholder](https://jsonplaceholder.typicode.com/) A
 
 ### Dashboard
 
+![image](https://github.com/user-attachments/assets/8499401b-c845-413f-b1f2-3ff1d287bdef)
+
+
 ### Add User Form
 
+![image](https://github.com/user-attachments/assets/7da651f3-9159-4dd5-815b-d52cb38ed2ef)
+
+
 ### Edit User Form
+
+![image](https://github.com/user-attachments/assets/d506cef1-08b4-4466-82d6-ab58299c454a)
+
 
 ## Responsive Design
 
