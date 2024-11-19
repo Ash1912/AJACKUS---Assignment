@@ -1,0 +1,43 @@
+/* Pagination Container */
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px; /* Adds consistent spacing between elements */
+  margin-top: 20px;
+}
+
+/* Pagination Buttons */
+.pagination button {
+  padding: 10px 15px;
+  background-color: #4caf50;
+  color: white;
+  border: 2px solid #4caf50;
+  border-radius: 5px; /* Rounded corners for buttons */
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: bold;
+  transition: all 0.3s ease; /* Smooth hover effects */
+}
+
+/* Hover Effect for Buttons */
+.pagination button:hover {
+  background-color: white;
+  color: #4caf50;
+  border-color: #4caf50;
+}
+
+/* Disabled Buttons */
+.pagination button:disabled {
+  background-color: #e0e0e0;
+  color: #a0a0a0;
+  cursor: not-allowed;
+  border: 2px solid #ccc;
+}
+
+/* Pagination Text (e.g., current page) */
+.pagination span {
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+}
